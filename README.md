@@ -48,4 +48,9 @@ The dashboard has multiple insights.
 **Dashboard Preview:**
 <img width="1837" height="777" alt="image" src="https://github.com/user-attachments/assets/320f6e5f-f3a7-49d7-92ee-e587890f63f6" />
 
+**Future Improvements**
+1. Add more demographic details (years of experience, education).
+2. Collect data fom more users
+3. Integrate Python/R scripts in Power BI for predictive insights.
+
 
