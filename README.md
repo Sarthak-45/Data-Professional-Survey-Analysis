@@ -1,5 +1,6 @@
+**DATA PROFESSIONAL SURVEY ANALYSIS**
 
-**Overview**
+**Overview -** 
 This project analyzes the survey data on 630 or more data professionals to discover the information about salaries, job titles, skills, and work-life balance. The dashboard was completely designed using power BI and demonstrates data cleaning, transformation, and interactive visualization.
 
 **Objectives**
@@ -16,7 +17,7 @@ This project analyzes the survey data on 630 or more data professionals to disco
 4. Standardized categories (e.g., “United States” vs. “USA”).
 5. Created calculated columns like average age and happiness index.
 
-**Dashboard Features**
+**Dashboard Features -**
 The dashboard has multiple insights.
 1. Demographics:
    * Country distribution of survey takers
