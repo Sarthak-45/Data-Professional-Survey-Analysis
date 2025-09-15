@@ -1,4 +1,3 @@
-<img width="1837" height="777" alt="image" src="https://github.com/user-attachments/assets/2f67f54a-533c-42fc-9efc-1c66f3fe758f" /># Data-Professional-Survey-Analysis
 
 **Overview**
 This project analyzes the survey data on 630 or more data professionals to discover the information about salaries, job titles, skills, and work-life balance. The dashboard was completely designed using power BI and demonstrates data cleaning, transformation, and interactive visualization.
