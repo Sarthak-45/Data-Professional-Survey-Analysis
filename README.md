@@ -3,6 +3,9 @@
 **Overview -** 
 This project analyzes the survey data on 630 or more data professionals to discover the information about salaries, job titles, skills, and work-life balance. The dashboard was completely designed using power BI and demonstrates data cleaning, transformation, and interactive visualization.
 
+**Dashboard Preview:**
+<img width="1837" height="777" alt="image" src="https://github.com/user-attachments/assets/320f6e5f-f3a7-49d7-92ee-e587890f63f6" />
+
 **Objectives**
 1. Understand the distribution of survey participants across countries and roles.
 2. Analyze salary variations across job titles.
@@ -44,9 +47,6 @@ The dashboard has multiple insights.
 3. Python was the most popular programming language across all roles.
 4. Average work-life balance score was 5.86/10, while happiness with salary scored 4.27/10.
 5. Breaking into data was considered “Difficult” or “Very Difficult” by over 60% of respondents.
-
-**Dashboard Preview:**
-<img width="1837" height="777" alt="image" src="https://github.com/user-attachments/assets/320f6e5f-f3a7-49d7-92ee-e587890f63f6" />
 
 **Future Improvements**
 1. Add more demographic details (years of experience, education).
